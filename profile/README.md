@@ -20,6 +20,20 @@
 > ### [발표 문서]()
 -->
 
+## 팀 동료
+
+### Frontend
+
+| <a href=https://github.com/deswaq1220><img src="https://avatars.githubusercontent.com/u/121841669?v=4" width=100px/><br/><sub><b>@deswaq1220</b></sub></a><br/> | <a href=https://github.com/hayeon010904><img src="https://avatars.githubusercontent.com/u/153696152?v=4" width=100px/><br/><sub><b>@hayeon010904</b></sub></a><br/> | <a href=https://github.com/rnjsdydwp9><img src="https://avatars.githubusercontent.com/u/153696287?v=4" width=100px/><br/><sub><b>@rnjsdydwp9</b></sub></a><br/> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                              변경원                                                                               |                                                                              이하연                                                                               | 권용제 |
+
+### Backend
+
+| <a href=https://github.com/yyysolhhh><img src="https://avatars.githubusercontent.com/u/70841430?v=4" width=100px/><br/><sub><b>@yyysolhhh</b></sub></a><br/> | <a href=https://github.com/Meoyoug><img src="https://avatars.githubusercontent.com/u/153697857?v=4" width=100px/><br/><sub><b>@Meoyoug</b></sub></a><br/> | <a href=https://github.com/friedrice93/><img src="https://avatars.githubusercontent.com/u/153698085?v=4" width=100px/><br/><sub><b>@friedrice93</b></sub></a><br/> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                           이예솔하                                                                           |                                                                              임대용                                                                               | 권혜연 |
+
 <!--
 ## 3. 서비스 화면
 
@@ -34,7 +48,7 @@
 -->
 
 <!-- <img src="https://user-images.githubusercontent.com/90237119/215304129-d8006105-cf1c-49c7-a819-4f819dfac523.png"/> -->
-<!--
+
 ### Frontend
 
 <img src="https://img.shields.io/badge/Framework-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/18.2.0-515151?style=for-the-badge">  
@@ -46,36 +60,24 @@
 <img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"><img src="https://img.shields.io/badge/1.6.8-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/designtool-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  
 <img src="https://img.shields.io/badge/hosting-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/Object Storage-03D25A?style=for-the-badge&logo=Figma&logoColor=white">
--->
+
 
 <!-- 왼쪽 배지 색 참고용 <img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"><img src="https://img.shields.io/badge/1.6.8-515151?style=for-the-badge">  
 <br> -->
-<!--
+
 ### Backend
 
 <img src="https://img.shields.io/badge/Framework-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/4.2.11-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/Language-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/3.12.2-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/Database-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/8.3.0-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Database-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/8.3.0-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/container-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/24.0.5-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/server-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"><img src="https://img.shields.io/badge/Amazon Linux 2023-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/CICD-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"><img src="https://img.shields.io/badge/2.440.2-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/CICD-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><img src="https://img.shields.io/badge/2.440.2-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/LOGGING-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/amazoncloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"><img src="https://img.shields.io/badge/logs-515151?style=for-the-badge">
--->
 
 
-## 팀 동료
 
-### Frontend
 
-| <a href=https://github.com/deswaq1220><img src="https://avatars.githubusercontent.com/u/121841669?v=4" width=100px/><br/><sub><b>@deswaq1220</b></sub></a><br/> | <a href=https://github.com/hayeon010904><img src="https://avatars.githubusercontent.com/u/153696152?v=4" width=100px/><br/><sub><b>@hayeon010904</b></sub></a><br/> | <a href=https://github.com/rnjsdydwp9><img src="https://avatars.githubusercontent.com/u/153696287?v=4" width=100px/><br/><sub><b>@rnjsdydwp9</b></sub></a><br/> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                              변경원                                                                               |                                                                              이하연                                                                               | 권용제 |
-
-### Backend
-
-| <a href=https://github.com/yyysolhhh><img src="https://avatars.githubusercontent.com/u/70841430?v=4" width=100px/><br/><sub><b>@yyysolhhh</b></sub></a><br/> | <a href=https://github.com/Meoyoug><img src="https://avatars.githubusercontent.com/u/153697857?v=4" width=100px/><br/><sub><b>@Meoyoug</b></sub></a><br/> | <a href=https://github.com/friedrice93/><img src="https://avatars.githubusercontent.com/u/153698085?v=4" width=100px/><br/><sub><b>@friedrice93</b></sub></a><br/> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                           이예솔하                                                                           |                                                                              임대용                                                                               | 권혜연 |
 <!--
 ## 6. 프로젝트 규칙
 

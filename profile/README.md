@@ -51,15 +51,15 @@
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/Framework-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/18.2.0-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/language-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/5.2.2-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/build-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><img src="https://img.shields.io/badge/5.2.0-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/build-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"><img src="https://img.shields.io/badge/5.2.0-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/build-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/3.4.1-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Libarary-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/18.2.0-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Language-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/5.2.2-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Environment-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><img src="https://img.shields.io/badge/5.2.0-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Environment-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"><img src="https://img.shields.io/badge/1.22.22-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Style-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/3.4.1-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"><img src="https://img.shields.io/badge/1.6.8-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/designtool-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  
-<img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"><img src="https://img.shields.io/badge/5.28.14-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/zustand-2554BF?style=for-the-badge&logo=zustand&logoColor=white"><img src="https://img.shields.io/badge/4.5.2-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Designtool-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  
+<img src="https://img.shields.io/badge/Data-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"><img src="https://img.shields.io/badge/5.28.14-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/State-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/zustand-2554BF?style=for-the-badge&logo=zustand&logoColor=white"><img src="https://img.shields.io/badge/4.5.2-515151?style=for-the-badge">  
 
 
 
@@ -71,10 +71,10 @@
 <img src="https://img.shields.io/badge/Framework-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/5.0.6-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/Language-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/3.12.2-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/Database-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/8.3.0-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/container-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/25.0.3-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Container-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/25.0.3-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/CICD-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  
-<img src="https://img.shields.io/badge/LOGGING-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">  
-<img src="https://img.shields.io/badge/WEBSERVER-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/1.25.5-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Monitoring-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">  
+<img src="https://img.shields.io/badge/Webserver-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/1.25.5-515151?style=for-the-badge">  
 
 <!--<img src="https://img.shields.io/badge/2.440.2-515151?style=for-the-badge">  -->
 <!--<img src="https://img.shields.io/badge/logs-515151?style=for-the-badge">  -->

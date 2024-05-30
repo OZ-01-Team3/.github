@@ -67,15 +67,16 @@
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Framework-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/4.2.11-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Framework-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/5.0.6-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/Language-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/3.12.2-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/Database-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/8.3.0-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/container-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/24.0.5-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/server-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"><img src="https://img.shields.io/badge/Amazon Linux 2023-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/CICD-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><img src="https://img.shields.io/badge/2.440.2-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/LOGGING-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/amazoncloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"><img src="https://img.shields.io/badge/logs-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/container-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/25.0.3-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/CICD-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  
+<img src="https://img.shields.io/badge/LOGGING-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">  
+<img src="https://img.shields.io/badge/WEBSERVER-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/1.25.5-515151?style=for-the-badge">  
 
-
+<!--<img src="https://img.shields.io/badge/2.440.2-515151?style=for-the-badge">  -->
+<!--<img src="https://img.shields.io/badge/logs-515151?style=for-the-badge">  -->
 
 
 <!--

@@ -53,13 +53,14 @@
 
 <img src="https://img.shields.io/badge/Framework-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/18.2.0-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/language-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/5.2.2-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/style-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/3-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/style-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/3-515151?style=for-the-badge">  
-<img src="https://img.shields.io/badge/toolkit-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/3-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/build-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><img src="https://img.shields.io/badge/5.2.0-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/build-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"><img src="https://img.shields.io/badge/5.2.0-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/build-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/3.4.1-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"><img src="https://img.shields.io/badge/1.6.8-515151?style=for-the-badge">  
 <img src="https://img.shields.io/badge/designtool-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  
-<img src="https://img.shields.io/badge/hosting-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/Object Storage-03D25A?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"><img src="https://img.shields.io/badge/5.28.14-515151?style=for-the-badge">  
+<img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/zustand-2554BF?style=for-the-badge&logo=zustand&logoColor=white"><img src="https://img.shields.io/badge/4.5.2-515151?style=for-the-badge">  
+
 
 
 <!-- 왼쪽 배지 색 참고용 <img src="https://img.shields.io/badge/client-2b2226?style=for-the-badge"><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"><img src="https://img.shields.io/badge/1.6.8-515151?style=for-the-badge">  

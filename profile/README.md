@@ -24,15 +24,15 @@
 
 ### Frontend
 
-| <a href=https://github.com/deswaq1220><img src="https://avatars.githubusercontent.com/u/121841669?v=4" width=100px/><br/><sub><b>@deswaq1220</b></sub></a><br/> | <a href=https://github.com/hayeon010904><img src="https://avatars.githubusercontent.com/u/153696152?v=4" width=100px/><br/><sub><b>@hayeon010904</b></sub></a><br/> |
+| <a href=https://github.com/deswaq1220><img src="https://avatars.githubusercontent.com/u/121841669?v=4" width=100px/> | <a href=https://github.com/hayeon010904><img src="https://avatars.githubusercontent.com/u/153696152?v=4" width=100px/> |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                              변경원                                                                               |                                                                              이하연                                                                               |
+| [@deswaq1220](https://github.com/deswaq1220) | [@hayeon010904](https://github.com/hayeon010904) |
 
 ### Backend
 
-| <a href=https://github.com/yyysolhhh><img src="https://avatars.githubusercontent.com/u/70841430?v=4" width=100px/><br/><sub><b>@yyysolhhh</b></sub></a><br/> | <a href=https://github.com/Meoyoug><img src="https://avatars.githubusercontent.com/u/153697857?v=4" width=100px/><br/><sub><b>@Meoyoug</b></sub></a><br/> | <a href=https://github.com/friedrice93/><img src="https://avatars.githubusercontent.com/u/153698085?v=4" width=100px/><br/><sub><b>@friedrice93</b></sub></a><br/> |
+| <a href=https://github.com/yyysolhhh><img src="https://avatars.githubusercontent.com/u/70841430?v=4" width=100px/> | <a href=https://github.com/Meoyoug><img src="https://avatars.githubusercontent.com/u/153697857?v=4" width=100px/> | <a href=https://github.com/friedrice93/><img src="https://avatars.githubusercontent.com/u/153698085?v=4" width=100px/> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                           이예솔하                                                                           |                                                                              임대용                                                                               | 권혜연 |
+| [@yyysolhhh](https://github.com/yyysolhhh) | [@Meoyoug](https://github.com/Meoyoug) | [@friedrice93](https://github.com/friedrice93) |
 
 <!--
 ## 3. 서비스 화면
